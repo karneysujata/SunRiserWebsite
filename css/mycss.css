@@ -1,0 +1,33 @@
+.circle {
+    background: grey;
+    border-radius: 200px;
+    color: white;
+    height: 200px;
+    font-weight: bold;
+    width: 200px;
+    display: table;
+    margin: 20px auto;
+}
+.sp{
+    vertical-align: middle;
+    display: table-cell;
+}
+.my-icon{
+    margin-left: 150px;
+    padding-left: 150px;
+}
+.pink{
+    font-size: 100px ;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.cap{
+  background: #bdc3c7;
+  height: 500px;
+  text-align: center;
+  padding-top: 100px
+}
+.quote-mdl{
+  margin-left: 100px;
+  margin-right: 100px;
+}
